@@ -1,0 +1,5 @@
+﻿dotnet ef migrations remove
+https://www.google.com/search?q=how+to+set+sql+server+authentication+in+sql+server+2014&rlz=1C1CHBF_enVN830VN830&oq=how+to+&aqs=chrome.0.69i59j69i57j69i61j0j35i39j0.1877j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1
+[controller] sẽ lấy giá trị đúng của nó
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio#add-a-database-context
+đối với asysnc thì dùng web api thuộc tính tasks và await
